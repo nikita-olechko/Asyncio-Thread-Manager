@@ -9,6 +9,7 @@ Submit your synchronous functions for concurrent execution without having to run
 ## Features
 
 - Execute multiple tasks concurrently with controlled parallelism
+- Execute synchronous functions as if they were async, without having to redefine your code
 - Limit the number of simultaneous workers
 - Optional delay between task submissions
 - Manages existence of event loop
